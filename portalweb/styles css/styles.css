@@ -1,0 +1,49 @@
+li {
+  float: right; 
+  margin-right: 3cm;
+
+} 
+
+a {
+  color: rgb(255, 255, 255);
+  float: right; 
+  margin-right: 3cm;
+  background-color: orange;
+}
+
+body {
+    background-color: rgb(255, 159, 32);
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  margin-top: 1cm;
+}
+
+img{
+  margin-top: 1cm;
+  display:block;
+    margin:auto;  
+}
+
+hr {
+  color: white;
+}
+
+form {
+  text-align: center;
+}
+
+P {
+  color: white;
+}
+
+li {
+  color: white;
+  text-align: left;
+}
+
+h2 {
+  color: white;
+}
